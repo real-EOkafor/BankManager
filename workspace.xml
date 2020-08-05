@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e7b694e-5d4c-47e2-a5c0-b1d81bfbb771" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/communicationmanaging/DoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bank/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bank/BankStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bank/BankStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankio/AccountReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankio/AccountReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankio/AccountWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankio/AccountWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/communicationmanaging/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/communicationmanaging/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/execute/ClientSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/execute/ClientSide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/execute/ServerSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/execute/ServerSide.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Emmanuel Okafor" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Emman\IdeaProjects\BankCallManager\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fS7iwS5wnpUaNH1kTOcW4TCnuW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ServerSide">
+    <configuration name="ClientSide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="execute.ClientSide" />
+      <module name="BankManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerSide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="execute.ServerSide" />
+      <module name="BankManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientSide" />
+        <item itemvalue="Application.ServerSide" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e7b694e-5d4c-47e2-a5c0-b1d81bfbb771" name="Default Changelist" comment="" />
+      <created>1596199770432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596199770432</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Version 0.9 nearly complete">
+      <created>1596570783165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596570783165</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 0.9 nearly complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 0.9 nearly complete" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="184" key="#Vim_Emulation" timestamp="1596562158219">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="432" y="184" key="#Vim_Emulation/0.0.1680.1050@0.0.1680.1050" timestamp="1596562158219" />
+    <state x="597" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596561856601">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="597" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1596561856601" />
+    <state x="645" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1596640774290">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="645" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1596640774290" />
+    <state x="636" y="411" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1596476678727">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="636" y="411" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1596476678708" />
+    <state x="679" y="423" width="329" height="204" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1596641071519">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="679" y="423" width="329" height="204" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1680.1050@0.0.1680.1050" timestamp="1596641071519" />
+    <state x="467" y="122" key="CommitChangelistDialog2" timestamp="1596570777281">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="467" y="122" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1596570777281" />
+    <state x="92" y="92" width="1496" height="866" key="DiffContextDialog" timestamp="1596458619333">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="92" y="92" width="1496" height="866" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596458619333" />
+    <state x="620" y="267" key="FileChooserDialogImpl" timestamp="1596641972529">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="620" y="267" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1596641972529" />
+    <state x="674" y="442" width="356" height="166" key="Github.CreateGistDialog" timestamp="1596458604892">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="674" y="442" width="356" height="166" key="Github.CreateGistDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596458604892" />
+    <state width="1637" height="285" key="GridCell.Tab.0.bottom" timestamp="1596479661540">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596479661540" />
+    <state width="1637" height="285" key="GridCell.Tab.0.center" timestamp="1596479661539">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596479661539" />
+    <state width="1637" height="285" key="GridCell.Tab.0.left" timestamp="1596479661539">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596479661539" />
+    <state width="1637" height="285" key="GridCell.Tab.0.right" timestamp="1596479661540">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="285" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596479661540" />
+    <state x="341" y="168" key="SettingsEditor" timestamp="1596562297965">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="168" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1596562297965" />
+    <state x="92" y="92" width="1496" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596480199864">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="92" y="92" width="1496" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596480199864" />
+    <state x="536" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1596568783060">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="536" y="350" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596568783060" />
+    <state x="543" y="215" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596561931661">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="543" y="215" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1596561931661" />
+    <state x="649" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596569850890">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="649" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596569850890" />
+    <state x="222" y="146" key="new project wizard" timestamp="1596555993421">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="222" y="146" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1596555993421" />
+    <state x="503" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1596618333147">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="503" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1596618333147" />
+    <state x="562" y="438" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1596618100652">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="562" y="438" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596618100652" />
+  </component>
+</project>
